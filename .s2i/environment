@@ -1,1 +1,1 @@
-DOTNET_STARTUP_PROJECT=openshifttest\Startup.cs
+DOTNET_STARTUP_PROJECT=openshifttest\openshifttest.csproj
